@@ -51,3 +51,15 @@ a:link {
 a:hover {
     color: white;
 }
+.marker {
+    height:30px;
+}
+.mail {
+    height: 30px;
+}
+.phone {
+    height: 30px;
+}
+.flex-column::first-line {
+    font-size: 20pt;
+}
